@@ -1,1 +1,1 @@
-# Credit-Card-Analysis-Power BI SQL
+# Credit-Card-Analysis-Power BI-SQL
