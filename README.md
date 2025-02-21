@@ -1,1 +1,1 @@
-# Credit-Card-Analysis-SQL-Python
+# Credit-Card-Analysis-Power BI SQL
